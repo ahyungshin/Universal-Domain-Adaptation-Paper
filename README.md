@@ -1,4 +1,4 @@
-# awesome-universal-domain-adaptation
+# Universal Domain Adaptation
 
 Domain adaptation aims to minimize the domain gap and successfully transfer the model trained on the labeled source domain to the unlabeled target domain. They suppose that label sets are identical across domains (***closed set domain adaptation***). Recent works try to relax the assumption by proposing ***open-set, partial, open-partial domain adaptation***. However, in the general scenario, we cannot select the proper domain adaptation method because no prior knowledge about the target domain label set is given. 
 
