@@ -10,6 +10,8 @@ Domain adaptation aims to minimize the domain gap and successfully transfer the 
 ## 2022
 - Subsidiary Prototype Alignment for Universal Domain Adaptation (NeurIPS 2022) [[paper]](https://arxiv.org/abs/2210.15909)
 - Unified Optimal Transport Framework for Universal Domain Adaptation (NeurIPS 2022) [[paper]](https://arxiv.org/abs/2210.17067) [[code]](https://github.com/changwxx/uniot-for-unida)
+- Geometric Anchor Correspondence Mining with Uncertainty Modeling for
+Universal Domain Adaptation (CVPR 2022)
 
 ## 2021
 - Divergence Optimization for Noisy Universal Domain Adaptation (CVPR 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yu_Divergence_Optimization_for_Noisy_Universal_Domain_Adaptation_CVPR_2021_paper.pdf) [[code]](https://github.com/YU1ut/Divergence-Optimization)
