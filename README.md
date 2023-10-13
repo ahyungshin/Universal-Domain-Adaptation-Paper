@@ -5,6 +5,7 @@ Domain adaptation aims to minimize the domain gap and successfully transfer the 
 ***Universal domain adaptation*** is a generalized setting. Given a labeled source domain, for any related target domain, regardless of how its label set differs from that of the source domain, we need to classify its samples correctly if it belongs to any class in the source label set, or mark it as “unknown” otherwise.
 
 ## 2023
+- Universal Domain Adaptation via Compressive Attention Matching (ICCV 2023)
 - Upcycling Models under Domain and Category Shift (CVPR 2023) [[paper]](https://arxiv.org/pdf/2303.07110.pdf) [[code]](https://github.com/ispc-lab/GLC)
 
 ## 2022
